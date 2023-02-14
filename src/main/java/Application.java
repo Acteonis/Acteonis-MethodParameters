@@ -16,7 +16,7 @@ public class Application {
         System.out.println(output1);
 
         System.out.println("Here's what Lab.copy returns when provided the value \"hello\"");
-        String val2 = "hello";
+        String val2 = "repeat after me";
         String output2 = parrot.copy(val2);
         System.out.println(output2);
     }
